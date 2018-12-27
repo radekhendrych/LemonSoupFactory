@@ -1,4 +1,5 @@
 My name's B.
 <I was here, Funtomas.>
 <Intruder Alert>
-<Alert received, set everything on fire. Also encrypt disks.>
+<Alert received, set intruder on fire if intruder non-resident. Also 
+encrypt disks.>
