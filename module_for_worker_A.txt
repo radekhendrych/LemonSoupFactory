@@ -1,1 +1,3 @@
- 
+My name's A.
+<Intruder Alert|Intruder Alert|Intruder Alert>
+<Alert received. Destroy intruder if intruder non-resident.> 
